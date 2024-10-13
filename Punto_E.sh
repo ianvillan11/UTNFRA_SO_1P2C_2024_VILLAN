@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Definir la ruta del repositorio
-REPO_PATH=~/RTA_ARCHIVOS_Examen_<2024-10-13>
+REPO_PATH=~/RTA_ARCHIVOS_Examen_2024-10-13
 
 # Crear la carpeta si no existe
 mkdir -p "$REPO_PATH"
