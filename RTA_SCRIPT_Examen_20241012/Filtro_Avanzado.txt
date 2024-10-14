@@ -1,0 +1,4 @@
+Mi IP Publica es: 181.26.115.22
+Mi usuario es: vagrant
+El Hash de mi Usuario es: $6$otrECWYDkRE/OzvA$2a/ubmNIAuA2/HUweMVPxCmOQ.6Xeo4RAF8ZWT74q1xRv0rX8GvNB2sqOXeuBWew9dDFNqGYlUJCSmt9Uog/g1
+La URL de mi repositorio es: git@github.com:ianvillan11/UTNFRA_SO_1P2C_2024_VILLAN.git
